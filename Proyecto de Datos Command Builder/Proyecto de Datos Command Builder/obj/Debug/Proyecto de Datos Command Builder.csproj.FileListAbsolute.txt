@@ -1,0 +1,10 @@
+C:\Users\Humberto\source\repos\Proyecto de Datos Command Builder\Proyecto de Datos Command Builder\bin\Debug\Proyecto de Datos Command Builder.exe.config
+C:\Users\Humberto\source\repos\Proyecto de Datos Command Builder\Proyecto de Datos Command Builder\bin\Debug\Proyecto de Datos Command Builder.exe
+C:\Users\Humberto\source\repos\Proyecto de Datos Command Builder\Proyecto de Datos Command Builder\bin\Debug\Proyecto de Datos Command Builder.pdb
+C:\Users\Humberto\source\repos\Proyecto de Datos Command Builder\Proyecto de Datos Command Builder\obj\Debug\Proyecto de Datos Command Builder.csprojAssemblyReference.cache
+C:\Users\Humberto\source\repos\Proyecto de Datos Command Builder\Proyecto de Datos Command Builder\obj\Debug\Proyecto_de_Datos_Command_Builder.Form1.resources
+C:\Users\Humberto\source\repos\Proyecto de Datos Command Builder\Proyecto de Datos Command Builder\obj\Debug\Proyecto_de_Datos_Command_Builder.Properties.Resources.resources
+C:\Users\Humberto\source\repos\Proyecto de Datos Command Builder\Proyecto de Datos Command Builder\obj\Debug\Proyecto de Datos Command Builder.csproj.GenerateResource.cache
+C:\Users\Humberto\source\repos\Proyecto de Datos Command Builder\Proyecto de Datos Command Builder\obj\Debug\Proyecto de Datos Command Builder.csproj.CoreCompileInputs.cache
+C:\Users\Humberto\source\repos\Proyecto de Datos Command Builder\Proyecto de Datos Command Builder\obj\Debug\Proyecto de Datos Command Builder.exe
+C:\Users\Humberto\source\repos\Proyecto de Datos Command Builder\Proyecto de Datos Command Builder\obj\Debug\Proyecto de Datos Command Builder.pdb

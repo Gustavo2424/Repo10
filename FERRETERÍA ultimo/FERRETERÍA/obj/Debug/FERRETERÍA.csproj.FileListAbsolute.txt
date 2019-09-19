@@ -1,0 +1,129 @@
+C:\Users\Humberto\Desktop\FERRETERÍA\FERRETERÍA\bin\Debug\FERRETERÍA.exe.config
+C:\Users\Humberto\Desktop\FERRETERÍA\FERRETERÍA\bin\Debug\FERRETERÍA.exe
+C:\Users\Humberto\Desktop\FERRETERÍA\FERRETERÍA\bin\Debug\FERRETERÍA.pdb
+C:\Users\Humberto\Desktop\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.csprojAssemblyReference.cache
+C:\Users\Humberto\Desktop\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmBanco.resources
+C:\Users\Humberto\Desktop\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmCliente.resources
+C:\Users\Humberto\Desktop\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmEntrega.resources
+C:\Users\Humberto\Desktop\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmFabricante.resources
+C:\Users\Humberto\Desktop\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmGarantía.resources
+C:\Users\Humberto\Desktop\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmMenu.resources
+C:\Users\Humberto\Desktop\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmMétodoPago.resources
+C:\Users\Humberto\Desktop\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmProducto.resources
+C:\Users\Humberto\Desktop\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmSucursal.resources
+C:\Users\Humberto\Desktop\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmVehículo.resources
+C:\Users\Humberto\Desktop\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmVendedor.resources
+C:\Users\Humberto\Desktop\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmVenta.resources
+C:\Users\Humberto\Desktop\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.Properties.Resources.resources
+C:\Users\Humberto\Desktop\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.csproj.GenerateResource.cache
+C:\Users\Humberto\Desktop\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.csproj.CoreCompileInputs.cache
+C:\Users\Humberto\Desktop\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.exe
+C:\Users\Humberto\Desktop\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.pdb
+<<<<<<< HEAD
+C:\Users\Humberto\Desktop\REPO PROYECTO FERRETERÍA\FERRETERÍA\FERRETERÍA\bin\Debug\FERRETERÍA.exe.config
+C:\Users\Humberto\Desktop\REPO PROYECTO FERRETERÍA\FERRETERÍA\FERRETERÍA\bin\Debug\FERRETERÍA.exe
+C:\Users\Humberto\Desktop\REPO PROYECTO FERRETERÍA\FERRETERÍA\FERRETERÍA\bin\Debug\FERRETERÍA.pdb
+C:\Users\Humberto\Desktop\REPO PROYECTO FERRETERÍA\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.csprojAssemblyReference.cache
+C:\Users\Humberto\Desktop\REPO PROYECTO FERRETERÍA\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmBanco.resources
+C:\Users\Humberto\Desktop\REPO PROYECTO FERRETERÍA\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmCliente.resources
+C:\Users\Humberto\Desktop\REPO PROYECTO FERRETERÍA\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmEntrega.resources
+C:\Users\Humberto\Desktop\REPO PROYECTO FERRETERÍA\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmFabricante.resources
+C:\Users\Humberto\Desktop\REPO PROYECTO FERRETERÍA\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmGarantía.resources
+C:\Users\Humberto\Desktop\REPO PROYECTO FERRETERÍA\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmMenu.resources
+C:\Users\Humberto\Desktop\REPO PROYECTO FERRETERÍA\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmMétodoPago.resources
+C:\Users\Humberto\Desktop\REPO PROYECTO FERRETERÍA\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmProducto.resources
+C:\Users\Humberto\Desktop\REPO PROYECTO FERRETERÍA\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmSucursal.resources
+C:\Users\Humberto\Desktop\REPO PROYECTO FERRETERÍA\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmVehículo.resources
+C:\Users\Humberto\Desktop\REPO PROYECTO FERRETERÍA\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmVendedor.resources
+C:\Users\Humberto\Desktop\REPO PROYECTO FERRETERÍA\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmVenta.resources
+C:\Users\Humberto\Desktop\REPO PROYECTO FERRETERÍA\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.Properties.Resources.resources
+C:\Users\Humberto\Desktop\REPO PROYECTO FERRETERÍA\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.csproj.GenerateResource.cache
+C:\Users\Humberto\Desktop\REPO PROYECTO FERRETERÍA\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.csproj.CoreCompileInputs.cache
+C:\Users\Humberto\Desktop\REPO PROYECTO FERRETERÍA\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.exe
+C:\Users\Humberto\Desktop\REPO PROYECTO FERRETERÍA\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.pdb
+=======
+C:\Users\Gustavo\Desktop\Ferreteria\FERRETERÍA\FERRETERÍA\bin\Debug\FERRETERÍA.exe.config
+C:\Users\Gustavo\Desktop\Ferreteria\FERRETERÍA\FERRETERÍA\bin\Debug\FERRETERÍA.exe
+C:\Users\Gustavo\Desktop\Ferreteria\FERRETERÍA\FERRETERÍA\bin\Debug\FERRETERÍA.pdb
+C:\Users\Gustavo\Desktop\Ferreteria\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.csprojAssemblyReference.cache
+C:\Users\Gustavo\Desktop\Ferreteria\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmBanco.resources
+C:\Users\Gustavo\Desktop\Ferreteria\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmCliente.resources
+C:\Users\Gustavo\Desktop\Ferreteria\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmEntrega.resources
+C:\Users\Gustavo\Desktop\Ferreteria\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmFabricante.resources
+C:\Users\Gustavo\Desktop\Ferreteria\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmGarantía.resources
+C:\Users\Gustavo\Desktop\Ferreteria\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmMenu.resources
+C:\Users\Gustavo\Desktop\Ferreteria\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmMétodoPago.resources
+C:\Users\Gustavo\Desktop\Ferreteria\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmProducto.resources
+C:\Users\Gustavo\Desktop\Ferreteria\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmSucursal.resources
+C:\Users\Gustavo\Desktop\Ferreteria\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmVehículo.resources
+C:\Users\Gustavo\Desktop\Ferreteria\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmVendedor.resources
+C:\Users\Gustavo\Desktop\Ferreteria\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmVenta.resources
+C:\Users\Gustavo\Desktop\Ferreteria\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\Ferreteria\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.csproj.GenerateResource.cache
+C:\Users\Gustavo\Desktop\Ferreteria\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Ferreteria\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.exe
+C:\Users\Gustavo\Desktop\Ferreteria\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.pdb
+>>>>>>> 81fe5aac83ba514b120a49d6abe2118ef7169502
+C:\Users\Gustavo\Desktop\FERRETERÍA TODO\FERRETERÍA\obj\Debug\FERRETERÍA.csprojAssemblyReference.cache
+C:\Users\Gustavo\Desktop\FERRETERÍA TODO\FERRETERÍA\obj\Debug\FERRETERÍA.FrmBanco.resources
+C:\Users\Gustavo\Desktop\FERRETERÍA TODO\FERRETERÍA\obj\Debug\FERRETERÍA.FrmCliente.resources
+C:\Users\Gustavo\Desktop\FERRETERÍA TODO\FERRETERÍA\obj\Debug\FERRETERÍA.FrmEntrega.resources
+C:\Users\Gustavo\Desktop\FERRETERÍA TODO\FERRETERÍA\obj\Debug\FERRETERÍA.FrmFabricante.resources
+C:\Users\Gustavo\Desktop\FERRETERÍA TODO\FERRETERÍA\obj\Debug\FERRETERÍA.FrmGarantía.resources
+C:\Users\Gustavo\Desktop\FERRETERÍA TODO\FERRETERÍA\obj\Debug\FERRETERÍA.FrmMenu.resources
+C:\Users\Gustavo\Desktop\FERRETERÍA TODO\FERRETERÍA\obj\Debug\FERRETERÍA.FrmMétodoPago.resources
+C:\Users\Gustavo\Desktop\FERRETERÍA TODO\FERRETERÍA\obj\Debug\FERRETERÍA.FrmProducto.resources
+C:\Users\Gustavo\Desktop\FERRETERÍA TODO\FERRETERÍA\obj\Debug\FERRETERÍA.FrmSucursal.resources
+C:\Users\Gustavo\Desktop\FERRETERÍA TODO\FERRETERÍA\obj\Debug\FERRETERÍA.FrmVehículo.resources
+C:\Users\Gustavo\Desktop\FERRETERÍA TODO\FERRETERÍA\obj\Debug\FERRETERÍA.FrmVendedor.resources
+C:\Users\Gustavo\Desktop\FERRETERÍA TODO\FERRETERÍA\obj\Debug\FERRETERÍA.FrmVenta.resources
+C:\Users\Gustavo\Desktop\FERRETERÍA TODO\FERRETERÍA\obj\Debug\FERRETERÍA.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\FERRETERÍA TODO\FERRETERÍA\obj\Debug\FERRETERÍA.csproj.GenerateResource.cache
+C:\Users\Gustavo\Desktop\FERRETERÍA TODO\FERRETERÍA\obj\Debug\FERRETERÍA.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\FERRETERÍA TODO\FERRETERÍA\obj\Debug\FERRETERÍA.exe
+C:\Users\Gustavo\Desktop\FERRETERÍA TODO\FERRETERÍA\obj\Debug\FERRETERÍA.pdb
+C:\Users\Gustavo\Desktop\FERRETERÍA TODO\FERRETERÍA\bin\Debug\FERRETERÍA.exe.config
+C:\Users\Gustavo\Desktop\FERRETERÍA TODO\FERRETERÍA\bin\Debug\FERRETERÍA.exe
+C:\Users\Gustavo\Desktop\FERRETERÍA TODO\FERRETERÍA\bin\Debug\FERRETERÍA.pdb
+C:\Users\Gustavo\Desktop\Repo3\FERRETERÍA\FERRETERÍA\bin\Debug\FERRETERÍA.exe.config
+C:\Users\Gustavo\Desktop\Repo3\FERRETERÍA\FERRETERÍA\bin\Debug\FERRETERÍA.exe
+C:\Users\Gustavo\Desktop\Repo3\FERRETERÍA\FERRETERÍA\bin\Debug\FERRETERÍA.pdb
+C:\Users\Gustavo\Desktop\Repo3\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.csprojAssemblyReference.cache
+C:\Users\Gustavo\Desktop\Repo3\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmBanco.resources
+C:\Users\Gustavo\Desktop\Repo3\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmCliente.resources
+C:\Users\Gustavo\Desktop\Repo3\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmEntrega.resources
+C:\Users\Gustavo\Desktop\Repo3\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmFabricante.resources
+C:\Users\Gustavo\Desktop\Repo3\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmGarantía.resources
+C:\Users\Gustavo\Desktop\Repo3\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmMenu.resources
+C:\Users\Gustavo\Desktop\Repo3\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmMétodoPago.resources
+C:\Users\Gustavo\Desktop\Repo3\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmProducto.resources
+C:\Users\Gustavo\Desktop\Repo3\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmSucursal.resources
+C:\Users\Gustavo\Desktop\Repo3\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmVehículo.resources
+C:\Users\Gustavo\Desktop\Repo3\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmVendedor.resources
+C:\Users\Gustavo\Desktop\Repo3\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.FrmVenta.resources
+C:\Users\Gustavo\Desktop\Repo3\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\Repo3\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.csproj.GenerateResource.cache
+C:\Users\Gustavo\Desktop\Repo3\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Repo3\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.exe
+C:\Users\Gustavo\Desktop\Repo3\FERRETERÍA\FERRETERÍA\obj\Debug\FERRETERÍA.pdb
+C:\Users\Humberto\Desktop\FERRETERÍA ultimo\FERRETERÍA\bin\Debug\FERRETERÍA.exe.config
+C:\Users\Humberto\Desktop\FERRETERÍA ultimo\FERRETERÍA\bin\Debug\FERRETERÍA.exe
+C:\Users\Humberto\Desktop\FERRETERÍA ultimo\FERRETERÍA\bin\Debug\FERRETERÍA.pdb
+C:\Users\Humberto\Desktop\FERRETERÍA ultimo\FERRETERÍA\obj\Debug\FERRETERÍA.csprojAssemblyReference.cache
+C:\Users\Humberto\Desktop\FERRETERÍA ultimo\FERRETERÍA\obj\Debug\FERRETERÍA.FrmBanco.resources
+C:\Users\Humberto\Desktop\FERRETERÍA ultimo\FERRETERÍA\obj\Debug\FERRETERÍA.FrmCliente.resources
+C:\Users\Humberto\Desktop\FERRETERÍA ultimo\FERRETERÍA\obj\Debug\FERRETERÍA.FrmEntrega.resources
+C:\Users\Humberto\Desktop\FERRETERÍA ultimo\FERRETERÍA\obj\Debug\FERRETERÍA.FrmFabricante.resources
+C:\Users\Humberto\Desktop\FERRETERÍA ultimo\FERRETERÍA\obj\Debug\FERRETERÍA.FrmGarantía.resources
+C:\Users\Humberto\Desktop\FERRETERÍA ultimo\FERRETERÍA\obj\Debug\FERRETERÍA.FrmMenu.resources
+C:\Users\Humberto\Desktop\FERRETERÍA ultimo\FERRETERÍA\obj\Debug\FERRETERÍA.FrmMétodoPago.resources
+C:\Users\Humberto\Desktop\FERRETERÍA ultimo\FERRETERÍA\obj\Debug\FERRETERÍA.FrmProducto.resources
+C:\Users\Humberto\Desktop\FERRETERÍA ultimo\FERRETERÍA\obj\Debug\FERRETERÍA.FrmSucursal.resources
+C:\Users\Humberto\Desktop\FERRETERÍA ultimo\FERRETERÍA\obj\Debug\FERRETERÍA.FrmVehículo.resources
+C:\Users\Humberto\Desktop\FERRETERÍA ultimo\FERRETERÍA\obj\Debug\FERRETERÍA.FrmVendedor.resources
+C:\Users\Humberto\Desktop\FERRETERÍA ultimo\FERRETERÍA\obj\Debug\FERRETERÍA.FrmVenta.resources
+C:\Users\Humberto\Desktop\FERRETERÍA ultimo\FERRETERÍA\obj\Debug\FERRETERÍA.Properties.Resources.resources
+C:\Users\Humberto\Desktop\FERRETERÍA ultimo\FERRETERÍA\obj\Debug\FERRETERÍA.csproj.GenerateResource.cache
+C:\Users\Humberto\Desktop\FERRETERÍA ultimo\FERRETERÍA\obj\Debug\FERRETERÍA.csproj.CoreCompileInputs.cache
+C:\Users\Humberto\Desktop\FERRETERÍA ultimo\FERRETERÍA\obj\Debug\FERRETERÍA.exe
+C:\Users\Humberto\Desktop\FERRETERÍA ultimo\FERRETERÍA\obj\Debug\FERRETERÍA.pdb
