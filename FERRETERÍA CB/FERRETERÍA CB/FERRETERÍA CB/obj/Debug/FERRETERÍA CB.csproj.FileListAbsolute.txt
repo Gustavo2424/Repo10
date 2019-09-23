@@ -1,0 +1,19 @@
+C:\Users\Humberto\Desktop\FERRETERÍA CB\FERRETERÍA CB\FERRETERÍA CB\bin\Debug\FERRETERÍA CB.exe.config
+C:\Users\Humberto\Desktop\FERRETERÍA CB\FERRETERÍA CB\FERRETERÍA CB\bin\Debug\FERRETERÍA CB.exe
+C:\Users\Humberto\Desktop\FERRETERÍA CB\FERRETERÍA CB\FERRETERÍA CB\bin\Debug\FERRETERÍA CB.pdb
+C:\Users\Humberto\Desktop\FERRETERÍA CB\FERRETERÍA CB\FERRETERÍA CB\obj\Debug\FERRETERÍA CB.csprojAssemblyReference.cache
+C:\Users\Humberto\Desktop\FERRETERÍA CB\FERRETERÍA CB\FERRETERÍA CB\obj\Debug\FERRETERÍA_CB.FrmMenu.resources
+C:\Users\Humberto\Desktop\FERRETERÍA CB\FERRETERÍA CB\FERRETERÍA CB\obj\Debug\FERRETERÍA_CB.Properties.Resources.resources
+C:\Users\Humberto\Desktop\FERRETERÍA CB\FERRETERÍA CB\FERRETERÍA CB\obj\Debug\FERRETERÍA CB.csproj.GenerateResource.cache
+C:\Users\Humberto\Desktop\FERRETERÍA CB\FERRETERÍA CB\FERRETERÍA CB\obj\Debug\FERRETERÍA CB.csproj.CoreCompileInputs.cache
+C:\Users\Humberto\Desktop\FERRETERÍA CB\FERRETERÍA CB\FERRETERÍA CB\obj\Debug\FERRETERÍA CB.exe
+C:\Users\Humberto\Desktop\FERRETERÍA CB\FERRETERÍA CB\FERRETERÍA CB\obj\Debug\FERRETERÍA CB.pdb
+C:\Users\Humberto\Desktop\FERRETERÍA CB\FERRETERÍA CB\FERRETERÍA CB\obj\Debug\FERRETERÍA_CB.FrmBanco.resources
+C:\Users\Humberto\Desktop\FERRETERÍA CB\FERRETERÍA CB\FERRETERÍA CB\obj\Debug\FERRETERÍA_CB.FrmCliente.resources
+C:\Users\Humberto\Desktop\FERRETERÍA CB\FERRETERÍA CB\FERRETERÍA CB\obj\Debug\FERRETERÍA_CB.FrmMétodoPago.resources
+C:\Users\Humberto\Desktop\FERRETERÍA CB\FERRETERÍA CB\FERRETERÍA CB\obj\Debug\FERRETERÍA_CB.FrmSucursal.resources
+C:\Users\Humberto\Desktop\FERRETERÍA CB\FERRETERÍA CB\FERRETERÍA CB\obj\Debug\FERRETERÍA_CB.FrmFabricante.resources
+C:\Users\Humberto\Desktop\FERRETERÍA CB\FERRETERÍA CB\FERRETERÍA CB\obj\Debug\FERRETERÍA_CB.FrmGarantía.resources
+C:\Users\Humberto\Desktop\FERRETERÍA CB\FERRETERÍA CB\FERRETERÍA CB\obj\Debug\FERRETERÍA_CB.FrmProducto.resources
+C:\Users\Humberto\Desktop\FERRETERÍA CB\FERRETERÍA CB\FERRETERÍA CB\obj\Debug\FERRETERÍA_CB.FrmVehículo.resources
+C:\Users\Humberto\Desktop\FERRETERÍA CB\FERRETERÍA CB\FERRETERÍA CB\obj\Debug\FERRETERÍA_CB.FrmVendedor.resources
